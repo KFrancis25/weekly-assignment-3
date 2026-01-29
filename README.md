@@ -1,13 +1,14 @@
-# Weekly Assignment — If Statements
+# Mini Project — Decision Quiz
 
 ## Overview
-In this assignment, you will create a Python program that makes a **decision** using:
+In this mini project, you will create a **Decision Quiz** using Python.
 
-- Variables  
-- Comparisons  
-- If statements  
+Your program will:
+- Show a quiz question to the user
+- Ask the user for an answer
+- Use **if / elif / else** statements to give different feedback
 
-You may choose **any appropriate decision** you want for your program.
+This project is designed to help you practice **decision-making in code**.
 
 ---
 
@@ -15,75 +16,77 @@ You may choose **any appropriate decision** you want for your program.
 
 Your program must:
 
-1. Ask the user for some input  
-2. Store the input in a variable  
-3. Use comparisons to check the value  
-4. Use **at least two if statements**  
-5. Print clear messages based on the result  
+1. Display a quiz question using `print()`
+2. Ask the user for an answer using `input()`
+3. Use **if / elif / else** to create at least **three possible outcomes**
+4. Print a message for each possible outcome
+5. End with a closing message
 
-You are free to choose what decision your program makes.
+You may choose **any appropriate quiz question**.
+
+---
+
+## Example Quiz Ideas
+
+You can create a quiz about:
+- A math question
+- A trivia question
+- A preference question
+- A simple knowledge check
+
+Example (you do NOT have to use this):
+
+- Question: What is 5 + 5?
+- Outcomes:
+  - Correct answer
+  - Close answer
+  - Incorrect answer
 
 ---
 
 ## Requirements
 
-Your program must:
+Your program must include:
 
-- Use at least **1 variable**  
-- Use at least **1 comparison**  
-- Use at least **2 if statements**  
-- Program must run (or almost run)  
-- Output must be clear and easy to understand  
-
----
-
-## Example Output
-
-Your output might look like one of these examples:
-```
-Enter your age: 16
-You are a minor
-```
-or
-```
-Enter your age: 20
-You are an adult
-```
-
-Your program does not have to use age — this is just an example.
+- At least **1 printed question**
+- At least **1 user input**
+- At least **3 outcomes**
+- At least **1 `if`**, **1 `elif`**, and **1 `else`**
+- Clear and readable output
 
 ---
 
 ## Rules
 
-- This must be **your own work**  
-- **NO AI tools** are allowed for this assignment  
-- You may ask your teacher or classmates for help  
+- This must be **your own work**
+- **NO AI tools** are allowed for this assignment
+- You may ask your teacher or classmates for help
+- Your logic does not need to be perfect, but it must make sense
 
 ---
 
 ## How to Submit
 
-1. Complete your program in `main.py`  
-2. Save and push your changes to GitHub Classroom  
-3. Submit the assignment link in Google Classroom  
+1. Write your code in the file called `main.py`
+2. Save and push your changes to GitHub Classroom
+3. Submit the GitHub repository link in Google Classroom
 
 ---
 
 ## Due Date
 
-**Due next Tuesday**
+📅 **Due next Tuesday**
 
 ---
 
 ## Grading
 
-This is a skill-building assignment.
+This is a skill-building project.
 
 You will receive full credit if:
+- You followed the instructions
+- You attempted the logic honestly
+- You used `if / elif / else` correctly
+- Your program is your own work
 
-- You followed the instructions  
-- You attempted the problem honestly  
-- Your logic makes sense  
-- Your program is your own work  
-
+Total: **10 points**
