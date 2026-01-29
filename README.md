@@ -69,13 +69,13 @@ Your program must include:
 
 1. Write your code in the file called `main.py`
 2. Save and push your changes to GitHub Classroom
-3. Submit the GitHub repository link in Google Classroom
+3. Click Mark as Done on Google Classroom
 
 ---
 
 ## Due Date
 
-📅 **Due next Tuesday**
+📅 **Due next Thursday**
 
 ---
 
@@ -88,5 +88,3 @@ You will receive full credit if:
 - You attempted the logic honestly
 - You used `if / elif / else` correctly
 - Your program is your own work
-
-Total: **10 points**
