@@ -1,33 +1,33 @@
-# Weekly Assignment — If Statements
-# Topic: Making Decisions with Code
+# Mini Project — Decision Quiz
+#Student Name: 
+# Topic: If / Elif / Else
+# Goal: Create a quiz that gives different feedback based on the user's answer
 
-# In this assignment, YOU will decide what decision your program makes.
+print("Welcome to the Decision Quiz!")
+print("-----------------------------")
 
-# TODO 1: Ask the user a question of your choice
-# Examples:
-# - "What is your age?"
-# - "What is your favorite number?"
-# - "What is your score on the test?"
-# - "How many hours did you sleep?"
+# TODO 1: Print your quiz question
+# Example: print("What is 2 + 2?")
+print("ENTER YOUR QUIZ QUESTION HERE")
 
-question = input("Enter your question here: ")
+# TODO 2: Ask the user for their answer
+# Convert to int() only if you are comparing numbers
+answer = input("Enter your answer: ")
 
-# TODO 2: Ask the user for a value related to that question
-# If you need a number, convert it using int()
+# TODO 3: Create at least THREE possible outcomes using:
+# - if
+# - elif
+# - else
+#
+# Each outcome should print a different message
+# Example ideas:
+# - Correct answer
+# - Close answer
+# - Incorrect answer
 
-value = int(input("Enter a number: "))
+# Write your decision logic below
 
-# TODO 3: Write at least TWO if statements that:
-# - Compare the value
-# - Print different messages based on the result
 
-# Example structure:
-# if value > 10:
-#     print("Message for one case")
 
-# if value <= 10:
-#     print("Message for another case")
-
-# TODO 4: Make sure your output is clear and easy to understand
-
-print("Thank you for using my decision program!")
+# TODO 4: Print a closing message
+print("Thanks for taking the quiz!")
